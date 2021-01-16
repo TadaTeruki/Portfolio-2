@@ -1,6 +1,53 @@
+.red {
+    background: linear-gradient(90deg, #e19b5b 0%, #ec7a7a 100%);
+}
 
-#PageName{
-    font-size: xx-large;
-    font-family: "Hiragino Maru Gothic Pro";
+.green {
+    background: linear-gradient(90deg, #94e2cc 0%, #9ee4ef 100%);
+}
+
+.sh_green {
+    background: linear-gradient(90deg, #c8e2cc 0%, #c8e4ef 100%);
+}
+
+.yellow {
+    background: linear-gradient(90deg, #fdc879 0%, #ecd165 100%);
+}
+
+.blue {
+    background: linear-gradient(90deg, #bca8ff 0%, #d2a2ff 100%);
+}
+
+.sh_blue {
+    background: linear-gradient(90deg, #cfc8e6 0%, #d2c3e1 100%);
+}
+
+body{
     margin-left: 10%;
 }
+
+th{
+    font-weight: normal;
+}
+
+.Title_f{
+    font-size: xx-large;
+    font-family: "Yu Gothic UI";
+    text-shadow: 2px 2px 5px #d3d3d3;
+    
+}
+
+.Basic_f{
+    font-size: medium;
+    text-align: left;
+    font-weight: normal;
+    font-family: "Yu Gothic UI";
+    line-height: 170%;
+}
+
+
+.Box_square_f{
+    width: 20px;
+    height: 20px;
+}
+
